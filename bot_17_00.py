@@ -140,7 +140,7 @@ def error(update, context):
 
 
 def main():
-    updater = Updater("1622026876:AAGSPO1cWixVtEb0Zw8PKJxNa-KfQUh7818", use_context=True)
+    updater = Updater("1614320433:AAGimKIfwNkMwn4ZdzTPg9iM2DYNiAiN4HY", use_context=True)
 
     dp = updater.dispatcher
 
